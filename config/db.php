@@ -8,7 +8,7 @@ class DbManager
     {
         //DBに接続
         $host = "localhost";
-        $dbname = "php_oop";
+        $dbname = "Todo";
         $charset = "utf8mb4";
         $user = 'root';
         $password='';
@@ -28,3 +28,5 @@ class DbManager
 
 
 }
+
+
